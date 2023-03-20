@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement)
 root.render(
   <QueryClientProvider client={queryClient}>
     <React.StrictMode>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <ThemeProvider theme={darkTheme}>
           <GlobalStyle />
           <App />
