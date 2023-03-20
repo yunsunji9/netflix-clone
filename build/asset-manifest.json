@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "https://yunsunji9.github.io/netflix-clone/static/js/main.fa020794.js",
+    "index.html": "https://yunsunji9.github.io/netflix-clone/index.html",
+    "main.fa020794.js.map": "https://yunsunji9.github.io/netflix-clone/static/js/main.fa020794.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fa020794.js"
+  ]
+}
